@@ -1,6 +1,6 @@
 id = "one-dark-pro-monokai-darker"
 name = "One Dark Pro Monokai Darker Theme"
-version = "0.1.0"
+version = "0.1.1"
 schema_version = 1
 authors = ["Eser Ozvataf <eser@ozvataf.com> (http://eser.ozvataf.com)","Sami Salih Ibrahimbas <contact@9ssi7.dev> (https://9ssi7.dev)"]
 description = "A Darker One Dark Pro variation with Monokai scheme"
